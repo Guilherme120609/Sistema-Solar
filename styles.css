@@ -5,8 +5,7 @@
 }
 
 body {
-  background: #000 url('https://i.imgur.com/oK9YbHk.png') repeat;
-  background-size: cover;
+  background: #000 url('https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?w=1600&q=80') no-repeat center center;
   height: 100vh;
   overflow: hidden;
   font-family: sans-serif;
